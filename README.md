@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Lorrayne Silva 👋
 
-<!--
-**lorsilv/lorsilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  🔭 I’m currently working as a Jr. Data Scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 Proudly learning Python in Luiza < Code > Bootcamp, 5th Edition.
+ 
+ 📚📔Studying about SQL, Data Science and Machine Learning.
+
+ 📝 Bachelor Degree in Business Management .
+
+📫 How to reach me: 
+  
+  My LinkedIn: https://www.linkedin.com/in/lorrayne-silva-494400161/
+
+  ⚡ Working on a social project to includ women in tech market.
+
+  👩‍🏫 Passionate aboout teaching.
+
+
+# Olá, eu sou a Lorrayne Silva 👋
+
+🔭 Atualmente trabalho como Cientista de Dados Jr.
+
+  🌱 Orgulhosamente aprendendo Python no Bootcamp da Luiza < Code > , 5ª Edição.
+ 
+  📚📔Estudando SQL, Data Science e Machine Learning.
+
+  📝 Bacharel em Administração. 
+
+📫 Como chegar até mim:
+  
+   Meu LinkedIn: https://www.linkedin.com/in/lorrayne-silva-494400161/
+
+   ⚡ Trabalhando em um projeto social que visa a inclusão de mulheres no mercado da tecnologia.
+
+   👩‍🏫 Apaixonada por ensinar.
